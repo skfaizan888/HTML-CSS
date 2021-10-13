@@ -1,0 +1,14 @@
+.A{
+    background-color: crimson;
+}
+.img-content{
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin: 20px;
+}
+.para1{
+    text-align: justify;
+    padding: 50px;
+    text-indent:300px;
+}

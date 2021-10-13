@@ -1,0 +1,21 @@
+.A ,.B ,.C ,.D{
+    background-color: orangered;
+    padding: 20px;
+    margin: 50px;
+}
+.A{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.B{
+    border: 2px dotted blue;
+    border-radius: 30px 40px;
+}
+.C{
+    border: 5px dashed black;
+    border-radius: 40px 50px 20px;
+}
+.D{
+    border: 10px double black;
+    border-radius: 40px 30px 40px 30px;
+}

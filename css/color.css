@@ -1,0 +1,13 @@
+.heading1{
+    background-color: cadetblue;
+}
+.heading2{
+    background-color: #f45;
+    color: #0040ff;
+}
+.heading3{
+    background-color: rgb(150, 100, 245);
+}
+.heading4{
+    background-color: rgba(120, 50, 60 ,0.1);
+}

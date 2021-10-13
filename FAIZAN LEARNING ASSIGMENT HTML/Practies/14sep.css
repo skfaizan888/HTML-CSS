@@ -1,0 +1,39 @@
+table{
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+   
+}
+th{
+    background-color: aqua;
+    padding: 20px;
+    font-weight: bolder;
+    border-radius: 20px;
+}
+td{
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+tr:nth-child(even){
+    background-color: burlywood;
+    color: brown;
+    border-radius: 20px;
+}
+tr:nth-child(odd){
+    background-color: cadetblue;
+    color: black;
+    border-radius: 20px;
+}
+.A{
+    text-align: justify;
+    text-indent:500px;
+    padding:10px;
+}
+B{
+    width: 300px;
+    height:300px;
+    float: right;
+    margin: 20px;
+}

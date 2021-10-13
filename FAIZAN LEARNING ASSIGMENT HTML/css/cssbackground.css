@@ -1,0 +1,24 @@
+body{
+    background-image: url(../images/download.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.para1{
+    background: url(../images/shah-rukh-khan-1-1624602065.jpg);
+    padding: 10px;
+    color: white;
+    text-align: justify;
+    text-indent: 200px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
+.para2{
+    background-image: url(../images/download.png);
+    background-color: tomato;
+    background-position: center;
+    background-size: 1000px;
+    padding: 15px;
+    border-radius: 20px;
+    border: 3px solid black;
+    background-repeat: no-repeat;
+}

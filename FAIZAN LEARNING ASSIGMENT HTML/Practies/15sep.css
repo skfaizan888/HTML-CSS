@@ -1,0 +1,90 @@
+nav{
+    background-color: burlywood;
+    padding: 10px;  
+    position: sticky;
+    top: 0;
+}
+a{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: cadetblue;
+    color: white;
+    
+}
+body{
+    background-color: rgb(248, 215, 192);
+}
+table{
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+}
+th{
+    background-color: darkcyan;
+    padding: 10px;
+    font-weight:bolder;
+    border-radius: 20px;
+}
+td{
+   text-align: center;
+   border-radius: 20px;
+   padding: 20px;
+}
+tr:nth-child(even){
+    background-color: darkgoldenrod;
+    color: white;
+    border-radius: 20px;
+}
+tr:nth-child(odd){
+    background-color: yellow;
+    color: black;
+    border-radius: 20px;
+}
+.para1{
+    color: chocolate;
+    background: url(../images/shahrukh-khan-19.png);
+    background-size: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: 300px;
+    padding: 10px;
+    text-align: justify;
+    box-shadow: 0 0 10px black;
+    margin: 10px;
+    border-radius: 20px;
+}
+div{
+    background-color: darkgray;
+}
+.img1{
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin:10px;  
+}
+figure{
+    display:inline-block
+}
+.img2{
+    width:200px;
+    height:200px;
+}
+figcaption{
+    background-color: burlywood;
+    color: crimson;
+    text-align: center;
+}
+section{
+    background-color: darkgoldenrod;
+    padding: 10px;
+    border: 2px solid black;
+}
+article{
+    background-color: burlywood;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black
+}

@@ -1,0 +1,59 @@
+body{
+    background-image: url(../images/1678884.jpg);
+    
+}
+nav{
+    background-color: burlywood;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 0 0 10px black;
+}
+a{
+    color: black;
+    padding: 18px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+} 
+ nav a:hover{
+     color: black;
+     background-color: white;
+
+}  
+
+/*-------DropDown 1-----*/
+.droplist1{
+    display: none;
+    position: absolute;
+    padding: 5px;
+    width: 150px;
+}
+.dropdown1 a{
+    display: block;
+}
+.dropdown1{
+    display: inline-block;
+}
+.dropdown1:hover .droplist1 {
+     display: block;
+}
+.droplist2{
+    display: none;
+    position: absolute;
+    padding: 5px;
+    width: 150px;
+    background-color: rgba(243, 175, 136, 0.5);
+
+
+  /* background-color: red; 
+   border-radius: 10px; */
+}
+.dropdown2 a{
+    display: block;
+}
+.dropdown2{
+    display: inline-block;
+}
+.dropdown2:hover .droplist2 {
+     display: block;
+     /* text-aling : Center; */
+}

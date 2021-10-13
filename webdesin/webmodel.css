@@ -1,0 +1,78 @@
+table{
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+}
+th{
+    background-color: darkgray;
+    padding:20px;
+    font-weight: bolder;
+    border-radius: 20px;
+}
+td{
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+tr:nth-child(even){
+    background-color: darksalmon;
+    color: black;
+    border-radius: 20px;
+
+}
+tr:nth-child(odd){
+    background-color: cornflowerblue;
+    color: black;
+    border-radius: 20px;
+}
+.A{
+    text-align: center;
+}
+.B{
+    text-align: center;
+}
+.C{
+    width: 200px;
+    height: 300px;
+    float: right;
+    margin: 10px;
+}
+.D{
+    color: rgb(100, 98, 98);
+    margin: 10px;
+    text-indent:500px;
+    text-align: justify;
+    background: url(../images/shahrukh-khan-19.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 0 0 10px red;
+    padding: 15px;
+    border-radius: 20px;
+    background-size: 800px
+
+}
+.E{
+    background-color: burlywood;
+}
+body{
+    background-color:wheat;
+}
+.F{
+    text-align: center;
+    background-image: url;
+}
+.G{
+    text-align: center;
+    background-color: rgb(250, 170, 154);
+}
+
+.j{
+    text-align: justify;
+    padding: 50px; 
+}
+.H{
+    width:150px;
+    height:180px;
+    float:right;
+    margin: 10px;
+}

@@ -1,0 +1,255 @@
+@import url("https://fonts.googlecapis.com/css?family=Anton|Gugi|Lato|Roboto|Sofia&display=swap");
+.body-1{
+    background-color: rgba(197, 197, 221, 0.2) ;
+}
+.Heading-01{
+    background-color: #46c5b2;
+    color: #fff;
+    padding: 15px;
+      
+}
+.Heading-02{
+    text-align: center;
+    
+}
+
+.Heading-04{
+    text-decoration: none;
+   padding-left: 1180px;
+    font-size: 15px;
+    position: absolute;
+    top: 25px;
+    color: #fff;
+  
+}
+.Heading-05{
+    text-decoration: none;
+    font-size: 15px; 
+    padding-left: 1250px; 
+    position: absolute;
+    top: 25px; 
+    color: #fff;
+}
+nav{
+    padding:15px;
+    margin: 5px;
+    /* box-shadow: 0 0 5px black; */
+}
+.Heading-06{
+    text-decoration: none;
+    padding: 15;
+    margin: 20px;
+    color: rgba(20, 20, 50, 0.9);
+    
+}
+.Heading-06:hover{
+    background-color: #45ccb8;
+    color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+}
+.Heading-07{
+    color: rgba(20, 20, 50, 0.9);
+    position: absolute;
+    left: 1230px;
+    font-size: 20px;
+    border-radius: 100%;
+    
+}
+.Heading-08{
+    color: rgba(20, 20, 50, 0.9);
+    position: absolute;
+    left: 1300px;
+    font-size: 20px;
+}
+.carousel-item{
+    width: 200px;
+}
+.Heading-9{
+    width: 100px;
+}
+.figure-1{
+    display: inline-block;
+    /* border: 1px solid rgba(20, 20, 50, 0.5); */
+}
+.figcaption-1{
+    text-align: center;
+    /* box-shadow: 0 0 1px black; */
+    /* border-radius: 20px; */
+}
+.figure-1:hover{
+    background-color: #45ccb8;
+    color: #fff;
+    box-shadow: 0 0 5px black;
+}
+.Heading-10{
+    text-align: center;
+}
+
+.Heading-12{
+    width: 400px;
+}
+figcaption{
+    text-align: center;
+}
+.Heading-star {
+    text-align: center;
+}
+.Heading-star a{
+    
+    color:#45c4b1 ;
+  
+}
+.Heading-13{
+    color: rgba(20, 20, 50, 0.6);;
+    padding: 10px;
+    text-align: center;
+}
+.Heading-14{
+    color: rgb(252, 96, 39);
+    font-size: 25px;
+}
+.Heading-15{
+    color: rgba(20, 20, 50, 0.7);
+    text-align: center;
+}
+.Heading-15:hover{
+    background-color: #45ccb8;
+    color: #fff;
+   padding: 10px;
+   border-radius: 20px;
+   border: 1px solid black;
+}
+
+.Heading-16{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-left: 200px;
+    
+}
+.Heading-17{
+    color: #45ccb8;
+    font-size: 20px;
+    padding: 10px;
+    
+}
+.Heading-18{
+    color: rgba(20, 20, 50, 0.6);;
+}
+.Heading-20{
+    width: 450px;
+}
+.Heading-21{
+    border: 1px solid rgba(20, 20, 50, 0.2);
+    padding: 40px;
+    margin: 20px;
+    background-color: rgba(217, 217, 223, 0.5) ;
+}
+.Heading-23 a{
+    color: #45c4b1;
+    font-size: 20px;
+}
+.Heading-25{
+    color: rgba(20, 20, 50, 0.5);
+    margin: 15px;
+    font-size: 20px;
+}
+
+.Heading-26{
+    background-color: #45ccb8;
+    border-radius: 30px;
+    outline: none;
+    width: 150px;
+    height: 50px;
+    color: #fff;
+    
+}
+.Heading-27{
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+    margin: 5px;
+    padding-left: 50px;
+}
+.Heading-29{
+    border: 1px solid rgba(20, 20, 50, 0.2) ;
+    margin: 20px;
+}
+.Heading-30{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Heading-31{
+    padding: 10px;
+    
+}
+.Heading-31 i{
+    margin: 10px;
+}
+.Heading-32{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+.Heading-33{
+    padding: 7px;
+}
+.Heading-34{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: #fff;
+    background-color: #45ccb8;
+    padding: 20px;
+}
+.Heading-34 i{
+    font-size: 60px;
+}
+.Heading-35{
+    display: flex;
+    flex-direction: row;
+    padding-left: 130px;
+  
+}
+.Heading-35 h3 {
+    color: #40bdaa;
+}
+.Heading-35 button{
+    background-color: #40bdaa;
+} 
+.Heading-37{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Heading-38{
+    color: rgba(20, 20, 50, 0.5); 
+    font-size: 15px;
+    padding: 10px;
+}
+.Heading-39{
+    color: rgb(252, 96, 39);
+    font-size: 20px;
+}
+.Heading-40 a{
+    color: #40bdaa;
+}
+.pow{
+    color: #40bdaa;
+    text-align: center;
+}
+
+.pow strong{
+    color: rgb(252, 96, 39);
+    padding: 10px;
+}
